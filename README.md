@@ -1,7 +1,8 @@
 # RatRig
 Information on the build and support for the RatRig V-Core 4
 
-## Cable clips for the frame
+## Cable management
+### Cable clips for the frame
 Low profile
 https://www.printables.com/model/216287-3030-cable-clip-profile-cover/comments
 
@@ -14,8 +15,15 @@ https://www.printables.com/model/724965-cable-clip-for-3030-profile
 For Raspberry Pi Ribbon cables
 https://www.printables.com/model/777357-3030-low-profile-ribbon-cable-clip
 
+## For the underside
+https://www.printables.com/model/955325-cable-tray-mount-ratrig-vcore-4
+
 ## DBK Cirrus PTC Fan heater manual
 https://docs.rs-online.com/3518/0900766b80f46a29.pdf
 
 ## Belter - belt tension measurement tool
 https://bttwiki.com/belter.html
+
+## Chamber camera
+https://www.printables.com/model/934095-ratrig-v-core-4-chamber-camera
+
