@@ -15,7 +15,7 @@ https://www.printables.com/model/724965-cable-clip-for-3030-profile
 For Raspberry Pi Ribbon cables
 https://www.printables.com/model/777357-3030-low-profile-ribbon-cable-clip
 
-## For the underside
+### For the underside
 https://www.printables.com/model/955325-cable-tray-mount-ratrig-vcore-4
 
 ## DBK Cirrus PTC Fan heater manual
@@ -26,4 +26,13 @@ https://bttwiki.com/belter.html
 
 ## Chamber camera
 https://www.printables.com/model/934095-ratrig-v-core-4-chamber-camera
+
+## BTT HDMI7 Screen mounts
+At the front - https://www.printables.com/model/954381-btt-hdmi7-mount-for-ratrig-vcore-4
+At the top - https://www.printables.com/model/1022459-btt-hdmi7-corner-mount-for-ratrig-vcore-4
+
+## Toolhead light
+https://www.printables.com/model/956804-headlamps-nozzle-lighting-for-ratrig-v-core-4-tool
+
+
 
