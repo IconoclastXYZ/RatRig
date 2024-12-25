@@ -38,3 +38,12 @@ https://www.printables.com/model/956804-headlamps-nozzle-lighting-for-ratrig-v-c
 ## Spannsysteme X-rail
 https://spannsysteme.shop/produkte/x-gantry-for-ratrig-v-core-4
 
+### Rigid toolhead belt clamp - stronger than the original
+https://www.printables.com/model/993378-ratrig-v-core-4-rigid-toolhead-belt-clamp/comments
+
+### Print bed plate alignment guides
+https://www.printables.com/model/958332-ratrig-v-core-4-bed-guides
+
+### Nozzle wipers
+https://www.printables.com/model/1059742-ratrig-v-core-4-nozzle-wiper
+
