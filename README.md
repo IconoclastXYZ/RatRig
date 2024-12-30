@@ -54,3 +54,8 @@ https://www.printables.com/model/958332-ratrig-v-core-4-bed-guides
 ### Nozzle wipers
 https://www.printables.com/model/1059742-ratrig-v-core-4-nozzle-wiper
 
+### Wide umbilical mount
+https://www.printables.com/model/1004382-ratrig-vcore-4-wide-umbilical-guide/files
+
+### Stronger belt clamps
+https://www.printables.com/model/1068663-sturdier-ratrig-4-vcore-front-clamp-with-more-clam
