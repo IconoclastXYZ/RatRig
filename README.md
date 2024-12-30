@@ -32,8 +32,15 @@ At the front - https://www.printables.com/model/954381-btt-hdmi7-mount-for-ratri
 
 At the top - https://www.printables.com/model/1022459-btt-hdmi7-corner-mount-for-ratrig-vcore-4
 
-## Toolhead light
+## Toolhead 
+### Light
 https://www.printables.com/model/956804-headlamps-nozzle-lighting-for-ratrig-v-core-4-tool
+
+### Mount for Orbiter Sensor V2.0
+https://www.printables.com/model/1073413-guide-ratrig-v-core-4-smart-filament-sensor-spacer
+
+### PTFE Tube support
+https://www.printables.com/model/1080617-rat-rig-v-core-4-ptfe-tube-support-for-smart-senso
 
 ## Spannsysteme X-rail
 https://spannsysteme.shop/produkte/x-gantry-for-ratrig-v-core-4
