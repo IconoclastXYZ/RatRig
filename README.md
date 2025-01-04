@@ -29,6 +29,9 @@ https://www.printables.com/model/934095-ratrig-v-core-4-chamber-camera
 ### Chamber lighting
 DaySpring LED strips - with description [here](https://us.ratrig.com/rat-rig-dayspring-led-light-strip-pcb-310mm-24v-by-vector3d.html) and printable models to mount them [here](https://github.com/AdamV3D/Dayspring)
 
+### Panel mounts
+[Annex Engineering mounts](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/c73acdda56535898fb3aef6b62998388e0c51670/Printers/All_Printers/annex_dev-Panel_2020_Clips_and_Hinges) - designed for 2020, but can be scaled in X & Y for 3030
+
 ## BTT HDMI7 Screen mounts
 At the front - https://www.printables.com/model/954381-btt-hdmi7-mount-for-ratrig-vcore-4
 
