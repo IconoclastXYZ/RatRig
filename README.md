@@ -65,9 +65,9 @@ https://www.printables.com/model/1068663-sturdier-ratrig-4-vcore-front-clamp-wit
 ## Electronics section
 
 ### Mains power and switch
-The [IEC Chassis Plug] (https://www.jaycar.com.au/iec-fuse-chassis-male-power-plug-with-switch/p/PP4003), which needs a larger cutout
+The (IEC Chassis Plug) [https://www.jaycar.com.au/iec-fuse-chassis-male-power-plug-with-switch/p/PP4003], which needs a larger cutout
 and
-A [heavy duty mains switch] (https://www.jaycar.com.au/spst-ip56-heavy-duty-toggle-switch/p/ST0581) which fits in the previous fuseholder spot
+A (heavy duty mains switch) [https://www.jaycar.com.au/spst-ip56-heavy-duty-toggle-switch/p/ST0581] which fits in the previous fuseholder spot
 
 ## Tools
 
