@@ -18,14 +18,16 @@ https://www.printables.com/model/777357-3030-low-profile-ribbon-cable-clip
 ### For the underside
 https://www.printables.com/model/955325-cable-tray-mount-ratrig-vcore-4
 
-## DBK Cirrus PTC Fan heater manual
+## Chamber
+
+### DBK Cirrus PTC Fan heater manual
 https://docs.rs-online.com/3518/0900766b80f46a29.pdf
 
-## Belter - belt tension measurement tool
-https://bttwiki.com/belter.html
-
-## Chamber camera
+### Chamber camera
 https://www.printables.com/model/934095-ratrig-v-core-4-chamber-camera
+
+### Chamber lighting
+DaySpring LED strips - with description [here](https://us.ratrig.com/rat-rig-dayspring-led-light-strip-pcb-310mm-24v-by-vector3d.html) and printable models to mount them [here](https://github.com/AdamV3D/Dayspring)
 
 ## BTT HDMI7 Screen mounts
 At the front - https://www.printables.com/model/954381-btt-hdmi7-mount-for-ratrig-vcore-4
@@ -59,3 +61,8 @@ https://www.printables.com/model/1004382-ratrig-vcore-4-wide-umbilical-guide/fil
 
 ### Stronger belt clamps
 https://www.printables.com/model/1068663-sturdier-ratrig-4-vcore-front-clamp-with-more-clam
+
+## Tools
+
+### Belter - belt tension measurement tool
+https://bttwiki.com/belter.html
