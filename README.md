@@ -83,6 +83,9 @@ A [heavy duty mains switch](https://www.jaycar.com.au/spst-ip56-heavy-duty-toggl
 ### Corner hole to fit USB & Ethernet through
 https://makerworld.com/en/models/870176
 
+## Enclosure
+[Side panel supports](https://www.printables.com/model/996444-ratrig-vcore4-panel-holder)
+
 ## Tools
 
 ### Belter - belt tension measurement tool
