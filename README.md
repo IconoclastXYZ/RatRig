@@ -72,6 +72,9 @@ The [IEC Chassis Plug](https://www.jaycar.com.au/iec-fuse-chassis-male-power-plu
 and
 A [heavy duty mains switch](https://www.jaycar.com.au/spst-ip56-heavy-duty-toggle-switch/p/ST0581) which fits in the previous fuseholder spot
 
+### Corner hole to fit USB & Ethernet through
+https://makerworld.com/en/models/870176
+
 ## Tools
 
 ### Belter - belt tension measurement tool
