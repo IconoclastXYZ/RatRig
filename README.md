@@ -72,7 +72,9 @@ https://www.printables.com/model/1004382-ratrig-vcore-4-wide-umbilical-guide/fil
 
 ### Belt clip alternatives
 [Stronger belt clamps](https://www.printables.com/model/1068663-sturdier-ratrig-4-vcore-front-clamp-with-more-clam)
+
 [For the toolhead](https://www.printables.com/model/1130157-ratrig-vcore4-toolhead-belt-clip) using a wedged nail
+
 [For the idex side belts](https://www.printables.com/model/1136101-ratrig-vcore4-toolhead-belt-clip)
 
 ## Electronics section
