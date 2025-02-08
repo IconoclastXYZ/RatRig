@@ -93,3 +93,6 @@ https://makerworld.com/en/models/870176
 ## Tools
 ### Belter - belt tension measurement tool
 https://bttwiki.com/belter.html
+
+## Bricklayers and Non-planar infill script
+https://github.com/TengerTechnologies/Bricklayers
