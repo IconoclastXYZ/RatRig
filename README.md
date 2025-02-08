@@ -18,6 +18,9 @@ Information on the build and support for the RatRig V-Core 4
 ### For the underside
 https://www.printables.com/model/955325-cable-tray-mount-ratrig-vcore-4
 
+### For the umbilicus
+https://www.printables.com/model/1008002-clip-for-ratrig-v-core-4-braided-sleeve-and-ptfe-t
+
 ## Chamber
 
 [DBK Cirrus PTC Fan heater manual](https://docs.rs-online.com/3518/0900766b80f46a29.pdf)
