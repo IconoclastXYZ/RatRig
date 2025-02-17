@@ -36,6 +36,10 @@ https://github.com/dmason1992/3DPANDME/blob/main/vcore3_mods/cable_support/perky
 ### Dual Umbilicus for IDEX
 https://cults3d.com/en/3d-model/tool/v-core-4-umbilical
 
+### DIN Rail mounts for the chamber heater
+Remixed from: https://www.printables.com/model/142448-din-rail-holder-for-m6-cap-head-screws-and-endcap/files
+Into this: 
+
 ## Enclosure
 
 ### Panel mounts
