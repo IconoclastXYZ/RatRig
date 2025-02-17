@@ -26,6 +26,7 @@ https://www.printables.com/model/1008002-clip-for-ratrig-v-core-4-braided-sleeve
 [Extrusion mounted](https://www.printables.com/model/627756-wago-221-412-413-and-415-mounts-for-2020-extrusion)
 [Angled screw mount](https://www.printables.com/model/570321-wago-221-413-angled-clip-mount)
 [Vertical mount](https://www.printables.com/model/282440-wago-221-412-413-and-415-double-triple-and-single-)
+[Horizontal varieties](https://makerworld.com/en/models/192672#profileId-212959)
 
 ## Chamber
 
