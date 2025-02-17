@@ -21,6 +21,12 @@ https://www.printables.com/model/955325-cable-tray-mount-ratrig-vcore-4
 ### For the umbilicus
 https://www.printables.com/model/1008002-clip-for-ratrig-v-core-4-braided-sleeve-and-ptfe-t
 
+### For Wago Clips
+[DIN Rail mounted](https://www.printables.com/model/619374-wago-221-din-mounted-single-2-3-5)
+[Extrusion mounted](https://www.printables.com/model/627756-wago-221-412-413-and-415-mounts-for-2020-extrusion)
+[Angled screw mount](https://www.printables.com/model/570321-wago-221-413-angled-clip-mount)
+[Vertical mount](https://www.printables.com/model/282440-wago-221-412-413-and-415-double-triple-and-single-)
+
 ## Chamber
 
 [DBK Cirrus PTC Fan heater manual](https://docs.rs-online.com/3518/0900766b80f46a29.pdf)
