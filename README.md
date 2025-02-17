@@ -38,7 +38,8 @@ https://cults3d.com/en/3d-model/tool/v-core-4-umbilical
 
 ### DIN Rail mounts for the chamber heater
 Remixed from: https://www.printables.com/model/142448-din-rail-holder-for-m6-cap-head-screws-and-endcap/files
-Into this: DIN_Rail-Endcap v2.stl
+
+[DIN_Rail-Endcap v2.stl](https://github.com/IconoclastXYZ/RatRig/blob/main/DIN_Rail-Endcap%20v2.stl)
 
 ## Enclosure
 
