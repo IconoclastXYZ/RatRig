@@ -36,6 +36,7 @@ https://www.printables.com/model/1008002-clip-for-ratrig-v-core-4-braided-sleeve
 
 ### Chamber lighting
 DaySpring LED strips - with description [here](https://us.ratrig.com/rat-rig-dayspring-led-light-strip-pcb-310mm-24v-by-vector3d.html) and printable models to mount them [here](https://github.com/AdamV3D/Dayspring)
+With lower profile methods of mounting [here](https://www.printables.com/model/1006103-3030-dayspring-led-mount) and [here](https://www.printables.com/model/1016988-3030-daylight-on-a-stick-mount)
 
 ### Cable guide to go around the rails - from Ratrig 3.x
 https://github.com/dmason1992/3DPANDME/blob/main/vcore3_mods/cable_support/perky_cable_frame_end_v1.stl
