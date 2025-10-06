@@ -2,11 +2,11 @@
 Information on the build and support for the RatRig V-Core 4
 
 ## Printing helpers
-[Calibration of printer accuracy X-Y](https://www.printables.com/model/546871-calicross-a-handy-tool-for-3d-printer-dimensional-)
-
-[Filament retention clips](https://www.printables.com/model/568122-grandpas-favorite-spring-loaded-filament-clip)
-
-[Dual material support testing](https://www.printables.com/model/606939-support-magic-perfect-petgpla-supports-a-support-t)
+- [Calibration of printer accuracy X-Y](https://www.printables.com/model/546871-calicross-a-handy-tool-for-3d-printer-dimensional-)
+- [Autodesk Calibration test and print - with scoring](https://github.com/kickstarter/kickstarter-autodesk-3d/tree/master/FDM-protocol)
+- 
+- [Filament retention clips](https://www.printables.com/model/568122-grandpas-favorite-spring-loaded-filament-clip)
+- [Dual material support testing](https://www.printables.com/model/606939-support-magic-perfect-petgpla-supports-a-support-t)
 
 ## Cable management
 ### Cable clips for the frame
